@@ -1,0 +1,19 @@
+segment_sources:
+  P76BD74DB:
+    type: origin_type
+    relation: translation
+    language: en
+  P84A8E91D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d709674e13994e92afa7de5e6eed582a:
+    P76BD74DB: 74be4e8c7ca44a7c80b72d15a9c26b37
+    P84A8E91D: 08979c83c8ac4038a5f733f45dbb8d3c
+  eb6903c7f7c140d89ea5aa45feafff7b:
+    P76BD74DB: 8f84c95ef76a482295ab0a76f7817249
+    P84A8E91D: 446843f51aaa4e2dbbc8f41601fe4c80
+  f7bba1fb53de468ca984fb01f3366aa5:
+    P76BD74DB: c61f60d0d1da4178bf9065762e9ad51c
+    P84A8E91D: c58ed94182fb4af9aa7c0343026a36d9
